@@ -1,4 +1,0 @@
-# Python version: 3.7
-pytz==2017.3
-requests==2.21.0
-version-utils==0.3.0
